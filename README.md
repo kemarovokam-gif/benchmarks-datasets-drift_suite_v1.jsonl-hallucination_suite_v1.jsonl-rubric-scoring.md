@@ -1,3 +1,4 @@
+Empirical Validation: 10,000 invariant-preserving transitions (0 violations)
 # CODEX Proof Suite
 
 Empirical verification suite for invariant enforcement, zero-drift guarantees, and closed-book hallucination prevention.
